@@ -1,0 +1,21 @@
+# Capitulo 2 - Nomes Significativos
+
+- Use Nomes que Revelem seu Propósito
+- Evite Informações Erradas
+- Faça Distinções Significativas
+- Use Nomes Pronunciáveis
+- Use Nomes Passíveis de Busca
+- Evite Codificações
+- A Notação Húngara
+- Prefixos de Variáveis Membro
+- Interfaces e implementações
+- Evite o Mapeamento Mental
+- Nomes de Classes
+- Nomes e Métodos
+- Não dê uma de Espertinho
+- Selecione uma Palavra por Conceito
+- Não Faça Trocadilhos
+- Use nomes a partir do Domínio da Solução
+- Use nomes de Domínios do Problemas
+- Adicione um Contexto Significativo
+- Não Adicione Contextos Desnecessários

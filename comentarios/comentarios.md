@@ -1,0 +1,33 @@
+# Capitulo 4 - Comentários
+
+- Comentários Compensam um Código Ruim
+- Explique-se no código
+- Comentários Bons
+- Comentários Legais
+- Comentários Informativos
+- Explicação da intenção
+- Esclarecimento
+- Alerta Sobre Consequências
+- Comentário TODO
+- Destaque
+- Javadocs em APIs Públicas
+- Comentários Ruins
+- Murmúrio
+- Comentários Redundantes
+- Comentários Enganadores
+- Comentários Imperativos
+- Comentários Longos
+- Comentários Ruidosos
+- Ruídos assustadores
+- Evite o comentário se é possível usar uma função ou uma variável
+- Marcadores de Posição
+- Comentários ao lado de chaves de fechamento
+- Créditos e autoria
+- Explicação do código em comentários
+- Comentários HTML
+- Informações não-locais
+- Informações excessivas
+- Conexões nada óbvias
+- Cabecalhos de funções
+- Javadocs em códigos não-públicos
+- Exemplo

@@ -1,0 +1,25 @@
+# Capitulo 3 - Funções
+
+- Pequenas!
+- Blocos e Endentação
+- Faça Apenas uma Coisa
+    - As funções devem fazer uma coisa. Devem fazê-las bem. Devem fazer apenas ela.
+- Seções Dentro de Funções
+- Um Nível de Abstração por Função
+- Ler o Código de Cima para Baixo: Regra Decrescente
+- Estrutura Switch
+- Use Nomes Descritivos
+- Parâmetros de Funções
+- Formas Mônades Comuns
+- Parâmetros Lógicos
+- Funções Díades
+- Tríades
+- Evite Efeitos Colaterais
+- Parâmetros de Saída
+- Separação comando-consulta
+- Prefira exceções a retorno de códigos de erro
+- Extraia os blocos try/catch
+- Tratamento de erro é uma coisa só
+- Evite repetição
+- Programação estruturada
+- Como escrever funções como essa?
